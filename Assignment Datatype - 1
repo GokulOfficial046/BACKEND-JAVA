@@ -1,0 +1,65 @@
+public class Main {
+    public static void main(String[] args) {
+
+        int empId = 101;
+        int empAge = 25;
+        double salary = 55000;
+        char grade = 'A';
+        boolean fullTime = true;
+
+        System.out.println("Employee Details");
+        System.out.println("ID: " + empId);
+        System.out.println("Age: " + empAge);
+        System.out.println("Salary: " + salary);
+        System.out.println("Grade: " + grade);
+        System.out.println("Full Time: " + fullTime);
+
+        public class Main {
+        public static void main(String[] args) {
+
+        int productId = 201;
+        double price = 999.99;
+        float discount = 10.5f;
+        char rating = 'A';
+        boolean available = true;
+
+        System.out.println("\nProduct Details");
+        System.out.println("Product ID: " + productId);
+        System.out.println("Price: " + price);
+        System.out.println("Discount: " + discount);
+        System.out.println("Rating: " + rating);
+        System.out.println("Available: " + available);
+
+       public class Main {
+       public static void main(String[] args) {
+
+        int vehicleNo = 12345;
+        int engineCC = 150;
+        double mileage = 45.5;
+        char fuel = 'P';
+        boolean insured = true;
+
+        System.out.println("\nVehicle Details");
+        System.out.println("Vehicle No: " + vehicleNo);
+        System.out.println("Engine CC: " + engineCC);
+        System.out.println("Mileage: " + mileage);
+        System.out.println("Fuel: " + fuel);
+        System.out.println("Insured: " + insured);
+
+       public class Main {
+       public static void main(String[] args) {
+
+        int patientAge = 67;
+        double weight = 68.75;
+        char bloodGroup = 'O';
+        boolean icu = false;
+        int medicines = 12;
+
+        System.out.println("\nPatient Record");
+        System.out.println("Age: " + patientAge);
+        System.out.println("Weight: " + weight);
+        System.out.println("Blood Group: " + bloodGroup);
+        System.out.println("ICU: " + icu);
+        System.out.println("Medicines: " + medicines);
+    }
+}
